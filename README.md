@@ -5,3 +5,6 @@ This project is developed as part of Programming Techniques course at RMIT Unive
 
 # Developer
 Ted Vu
+
+# How to run 
+Please run the project with the compiled system.jar file 
