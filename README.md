@@ -1,10 +1,10 @@
 # RobotArm
 
-# Project Brief
+## Project Brief
 This project is developed as part of Programming Techniques course at RMIT University
 
-# Developer
+## Developer
 Ted Vu
 
-# How to run 
+## How to run 
 Please run the project with the compiled system.jar file 
